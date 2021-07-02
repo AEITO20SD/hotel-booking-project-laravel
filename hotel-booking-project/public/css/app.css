@@ -1,0 +1,69 @@
+header {
+	background: #edeff1;
+}
+
+.nav-link,
+header .btn {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.nav-link {
+	margin-right: 1rem;
+	padding-bottom: 0 !important;
+}
+
+.nav-link:hover {
+	border-bottom: 5px solid #0d6efd;
+}
+
+header .btn {
+	color: #fdfdfd;
+}
+
+.logo-area {
+	color: #0d6efd;
+	margin-left: 1.4rem;
+}
+
+#logo-book {
+	font-size: 3rem;
+	text-shadow: 1px 1px #277bfa;
+}
+
+.logo-area h4 {
+	font-size: 1rem;
+	font-weight: bold;
+	text-shadow: 1px 1px #277bfa;
+	position: relative;
+	bottom: 1rem;
+	margin: 0;
+}
+
+footer {
+	background: #edeff1;
+}
+
+h5,
+p {
+	color: #020d0e;
+}
+.social-medias {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: space-around;
+}
+
+.media-icon {
+	font-size: 1.4rem;
+	margin-right: 1rem;
+	color: #0d6efd;
+	transition: transform ease 0.2s;
+}
+
+.media-icon:hover {
+	color: #0a6b22;
+	transform: scale(1.2);
+}
+
